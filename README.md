@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Prazer Desenvolvedor Full Stack</h1>
 <h3 align="center">Olá, eu sou o Yhago Felipe, um dev Full Stack dedicado a criar soluções. Com habilidades tanto no frontend quanto no backend, eu transformo conceitos em códigos. Desde o planejamento até a implementação, meu objetivo é proporcionar experiências digitais excepcionais. E estou aqui para planejar, escrever e codificar seu projeto! 💻✨</h3>
 
-<img align="right" alt="codigo" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ5c2QyOWVqZm82YWUyZ3FsOWd1amlmYWEyczJtMzlud280bXBiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="codigo" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ5c2QyOWVqZm82YWUyZ3FsOWd1amlmYWEyczJtMzlud280bXBiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yyhago&label=Profile%20views&color=0e75b6&style=flat" alt="yyhago" /> </p>
 
