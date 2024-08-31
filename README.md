@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Prazer!,+👋;+Eu+sou+Yhago+Felipe!;" />
 
 <h2>📖 | Sobre Mim</h2>
-🌐 Com mais de 3 anos de experiência como Engenheiro de Software Sênior, sou dedicado a desenvolver soluções de software que conectem efetivamente a tecnologia com aplicações do mundo real. Minha ampla expertise abrange desenvolvimento frontend, backend e full-stack, permitindo-me contribuir significativamente para projetos que vão de startups inovadoras a soluções empresariais complexas. Defendo código limpo e de fácil manutenção, com design centrado no usuário, prosperando em ambientes que priorizam a inovação e o crescimento profissional contínuo.
+🌐 🌐 Sou Yhago Felipe, Técnico em Desenvolvimento de Sistemas e Desenvolvedor Full Stack com uma paixão inabalável por tecnologia e inovação. Minha jornada no mundo da tecnologia começou cedo, e desde então, venho aprimorando minhas habilidades como autodidata, dedicando-me a aprender e aplicar meus conhecimentos em projetos que unam eficiência e qualidade. Com uma sólida formação em Desenvolvimento de Sistemas pela Etec de Hortolândia, estou constantemente focado em transformar desafios em oportunidades de sucesso, contribuindo com soluções inovadoras e reais que fazem a diferença.
 
 
 <h2>🛠️ | Linguagens, Frameworks e Ferramentas</h2>
