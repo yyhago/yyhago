@@ -17,31 +17,32 @@
 
 <h2>🛠️ | Linguagens, Frameworks e Ferramentas</h2>
 
-<table style="width: 100%; border-collapse: collapse;">
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,python,c,cpp"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws,linux"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Banco de Dados:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Controle de Versão:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Outras Ferramentas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop,apache"/></td>
-    </tr>
+
+<table width="100%">
+  <tr>
+    <td width="200px"><strong>Backend:</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,python,c,cpp" /></td>
+  </tr>
+  <tr>
+    <td width="200px"><strong>Frontend:</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react" /></td>
+  </tr>
+  <tr>
+    <td width="200px"><strong>DevOps:</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=aws,linux" /></td>
+  </tr>
+  <tr>
+    <td width="200px"><strong>Banco de Dados:</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td>
+  </tr>
+  <tr>
+    <td width="200px"><strong>Controle de Versão:</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github" /></td>
+  </tr>
+  <tr>
+    <td width="200px"><strong>Outras Ferramentas:</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop,apache" /></td>
+  </tr>
 </table>
 
 
