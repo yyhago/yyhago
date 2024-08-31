@@ -16,32 +16,34 @@
 
 
 <h2>🛠️ | Linguagens, Frameworks e Ferramentas</h2>
-<table>
+
+<table style="width: 100%; border-collapse: collapse;">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,php,python,c,cpp,apache"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,python,c,cpp"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws,git"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,linux"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Banco de Dados:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,mariadb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Controle de Versão:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Outras Ferramentas:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,ps"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop,apache"/></td>
     </tr>
 </table>
+
 
 <br>
 
