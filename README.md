@@ -45,9 +45,19 @@
 
 <br>
 
-<h2>⭐ | Estatísticas do Github</h2>
+<h2>🔥 | Minha sequência de contribuições</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz&locale=pt-br#version3"/>
+  </a>
+</p>
+
+<h2>⭐ | Estatísticas do GitHub </h2>
+
 <div align="center">
 <a href="https://github.com/yyhago">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyhago&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhago&layout=compact&langs_count=7&theme=default"/></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyhago&show_icons=true&theme=default&include_all_commits=true&count_private=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhago&layout=compact&langs_count=7&theme=default&locale=pt-br"/>
+</a>
 </div>
+
