@@ -20,7 +20,7 @@
 <table width="100%">
   <tr>
     <td width="200px"><strong>Backend:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,python,c,cpp,cs,dotnet,sql" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,python,c,cpp,cs,dotnet" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>Frontend:</strong></td>
