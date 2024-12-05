@@ -17,23 +17,22 @@
 
 <h2>🛠️ | Linguagens, Frameworks e Ferramentas</h2>
 
-
 <table width="100%">
   <tr>
     <td width="200px"><strong>Backend:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,python,c,cpp" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php,wordpress,python,c,cpp,cs,dotnet,sqlserver" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>Frontend:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>DevOps:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=aws,linux" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=aws,linux,docker,azure" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>Banco de Dados:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>Controle de Versão:</strong></td>
@@ -43,8 +42,11 @@
     <td width="200px"><strong>Outras Ferramentas:</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop,apache" /></td>
   </tr>
+  <tr>
+    <td width="200px"><strong>Metodologias:</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=&logo=tdd&logoColor=white" alt="TDD" /></td>
+  </tr>
 </table>
-
 
 <br>
 
