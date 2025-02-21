@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td width="200px"><strong>Frontend:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,androidstudio" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>DevOps:</strong></td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td width="200px"><strong>Outras Ferramentas:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop,apache,powerbi,oracleapex" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop" /></td>
   </tr>
 </table>
 
