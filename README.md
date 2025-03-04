@@ -25,15 +25,15 @@ Sigo estudando constantemente para evoluir como desenvolvedor e contribuir com s
   </tr>
   <tr>
     <td width="200px"><strong>Frontend:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,androidstudio" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,next,androidstudio" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>DevOps:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=azure,docker,aws,linux,windows" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=azure,linux,windows" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>Banco de Dados:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,postgresql" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" /></td>
   </tr>
   <tr>
     <td width="200px"><strong>Controle de Versão:</strong></td>
@@ -44,6 +44,7 @@ Sigo estudando constantemente para evoluir como desenvolvedor e contribuir com s
     <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop" /></td>
   </tr>
 </table>
+
 
 
 <br>
