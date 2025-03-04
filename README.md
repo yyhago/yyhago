@@ -12,8 +12,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Prazer!,+👋;+Eu+sou+Yhago+Felipe!;" />
 
 <h2>📖 | Sobre Mim</h2>
-🌐 🌐 Sou Yhago Felipe, Técnico em Desenvolvimento de Sistemas e Desenvolvedor Full Stack com uma paixão inabalável por tecnologia e inovação. Minha jornada no mundo da tecnologia começou cedo, e desde então, venho aprimorando minhas habilidades como autodidata, dedicando-me a aprender e aplicar meus conhecimentos em projetos que unam eficiência e qualidade. Com uma sólida formação em Desenvolvimento de Sistemas pela Etec de Hortolândia, estou constantemente focado em transformar desafios em oportunidades de sucesso, contribuindo com soluções inovadoras e reais que fazem a diferença.
-
+🌐 Olá! Sou Yhago Felipe e tenho grande interesse por programação e tecnologia. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.
+Atualmente, trabalho na área de TI, onde venho ganhando experiência prática e ampliando meus conhecimentos no dia a dia.
+Sigo estudando constantemente para evoluir como desenvolvedor e contribuir com soluções que realmente façam a diferença.
 
 <h2>🛠️ | Linguagens, Frameworks e Ferramentas</h2>
 
