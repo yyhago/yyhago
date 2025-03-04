@@ -16,36 +16,6 @@
 Atualmente, trabalho na área de TI, onde venho ganhando experiência prática e ampliando meus conhecimentos no dia a dia.
 Sigo estudando constantemente para evoluir como desenvolvedor e contribuir com soluções que realmente façam a diferença.
 
-<h2>🛠️ | Linguagens, Frameworks e Ferramentas</h2>
-
-<table width="100%">
-  <tr>
-    <td width="200px"><strong>Backend:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=python,nodejs,cs,dotnet,php,wordpress" /></td>
-  </tr>
-  <tr>
-    <td width="200px"><strong>Frontend:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,next,androidstudio" /></td>
-  </tr>
-  <tr>
-    <td width="200px"><strong>DevOps:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=azure,linux,windows" /></td>
-  </tr>
-  <tr>
-    <td width="200px"><strong>Banco de Dados:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" /></td>
-  </tr>
-  <tr>
-    <td width="200px"><strong>Controle de Versão:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=git,github" /></td>
-  </tr>
-  <tr>
-    <td width="200px"><strong>Outras Ferramentas:</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=figma,photoshop" /></td>
-  </tr>
-</table>
-
-
 
 <br>
 
