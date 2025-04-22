@@ -9,7 +9,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Prazer!,+👋;+Eu+sou+Yhago+Felipe!;" />
+<h1>Yhago Felipe | Engenheiro de Software Full Stack</h1>
 
 <h2>📖 | Sobre Mim</h2>
 🌐 Olá! Sou Yhago Felipe e tenho grande interesse por programação e tecnologia. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.
@@ -18,13 +18,6 @@ Sigo estudando constantemente para evoluir como desenvolvedor e contribuir com s
 
 
 <br>
-
-<h2>🔥 | Minha sequência de contribuições</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codediaz&locale=pt-br#version3"/>
-  </a>
-</p>
 
 <h2>⭐ | Estatísticas do GitHub </h2>
 
