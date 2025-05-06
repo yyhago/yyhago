@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/yhagofelipe/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@example.com">
+  <a href="mailto:yhago.felipe.teles@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <br>
@@ -52,6 +52,9 @@ Meu objetivo é aplicar minha paixão por tecnologia para contribuir com projeto
   <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
 </p>
 </details>
 
@@ -74,6 +77,9 @@ Meu objetivo é aplicar minha paixão por tecnologia para contribuir com projeto
 <p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -109,7 +115,6 @@ Meu objetivo é aplicar minha paixão por tecnologia para contribuir com projeto
 </div>
 
 
-
 ## 📫 Entre em Contato
 
 <div align="center">
@@ -125,5 +130,5 @@ Meu objetivo é aplicar minha paixão por tecnologia para contribuir com projeto
 ---
 
 <div align="center">
-  <em>Codificando com 💻 e café ☕</em>
+  <em>Desenvolvendo o futuro com código limpo, criatividade e ☕</em>
 </div>
