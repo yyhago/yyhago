@@ -12,9 +12,11 @@
 
 
 <h2>Yhago Felipe | Engenheiro de Software</h2>
-🌐 Olá! Sou Yhago Felipe e tenho grande interesse por programação e tecnologia. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.
+🌐 Olá! Sou Yhago Felipe e sou apaixonado por programação e tecnologia. Estou sempre buscando aprender coisas novas e aprimorar minhas habilidades.
 Atualmente, trabalho na área de TI, onde venho ganhando experiência prática e ampliando meus conhecimentos no dia a dia.
 Sigo estudando constantemente para evoluir como desenvolvedor e contribuir com soluções que realmente façam a diferença.
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,postgres,supabase,pycharm,windows,linux,azure)](https://skillicons.dev)
 
 
 <br>
