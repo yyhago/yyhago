@@ -29,10 +29,7 @@ Meu objetivo é aplicar minha paixão por tecnologia para contribuir com projeto
 
 ## 🚀 Habilidades Técnicas
 
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
-<p align="left">
+<div align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -42,44 +39,23 @@ Meu objetivo é aplicar minha paixão por tecnologia para contribuir com projeto
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
-</p>
-</details>
-
-<details open>
-<summary><b>Backend</b></summary>
-<br>
-<p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   </a>
-</p>
-</details>
-
-<details open>
-<summary><b>Banco de Dados</b></summary>
-<br>
-<p align="left">
   <a href="#">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   </a>
-</p>
-</details>
-
-<details open>
-<summary><b>DevOps & Ferramentas</b></summary>
-<br>
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -90,8 +66,7 @@ Meu objetivo é aplicar minha paixão por tecnologia para contribuir com projeto
   <a href="#">
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   </a>
-</p>
-</details>
+</div>
 
 ## 📊 Estatísticas GitHub
 
