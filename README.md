@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Yhago+Felipe;Engenheiro+de+Software" alt="Typing SVG" />
-</div>
+> Engenheiro de Software | Yhago Felipe
 
 <div align="center">
   <a href="https://github.com/yyhago">
