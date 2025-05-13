@@ -97,12 +97,6 @@ Opaa👋! Me chamo Yhago Felipe, sou programador e engenheiro de software apaixo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhago&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyhago&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
-</p>
-
-<br>
-
 <br>
 
 ## 📫 Conecte-se comigo
