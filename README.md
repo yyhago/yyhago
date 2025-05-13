@@ -19,17 +19,15 @@
 const yhago = {
   localização: "Brasil",
   formação: "Engenharia de Software",
-  interesses: ["Desenvolvimento Web", "Cloud Computing", "Inovação Tecnológica"],
-  hobbies: ["Coding", "Música", "Aprendizado contínuo"],
+  interesses: ["Desenvolvimento full-stack", "Cloud Computing", "Inteligencia-artificial"],
+  hobbies: ["Codar", "Música", "Aprendizado contínuo"],
   objetivos: "Desenvolver soluções tecnológicas que transformem experiências"
 };
 ```
 
 <img align="right" width="300" src="https://github.com/CodeDiaz/CodeDiaz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-Olá mundo! 👋 Sou um engenheiro de software apaixonado por criar soluções elegantes para problemas complexos. Com um foco em desenvolvimento full stack, estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades.
-
-Acredito no poder da tecnologia para transformar e melhorar vidas. Cada linha de código é uma oportunidade para criar algo significativo.
+Opaa👋! Me chamo Yhago Felipe, sou programador e engenheiro de software apaixonado por criar aplicações para soluções de problemas. Com um foco em desenvolvimento full stack, estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades. Acredito no poder da tecnologia para transformar e melhorar vidas. Cada linha de código é uma oportunidade para criar algo significativo.
 
 <br>
 
@@ -112,14 +110,6 @@ Acredito no poder da tecnologia para transformar e melhorar vidas. Cada linha de
 
 <br>
 
-## 📝 Projetos em Destaque
-
-<div align="center">
-<a href="https://github.com/yyhago/yyhago">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yyhago&repo=yyhago&theme=tokyonight&bg_color=00000000&hide_border=true" />
-</a>
-</div>
-
 <br>
 
 ## 📫 Conecte-se comigo
@@ -147,5 +137,5 @@ Acredito no poder da tecnologia para transformar e melhorar vidas. Cada linha de
 </div>
 
 <div align="center">
-  <h3>Codificando um futuro melhor, uma linha por vez ⚡</h3>
+  <h3>Codificando um futuro melhor, uma linha por vez!</h3>
 </div>
