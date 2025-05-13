@@ -101,13 +101,6 @@ Opaa👋! Me chamo Yhago Felipe, sou programador e engenheiro de software apaixo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyhago&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
 </p>
 
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yyhago&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-  </p>
-</details>
-
 <br>
 
 <br>
@@ -127,14 +120,6 @@ Opaa👋! Me chamo Yhago Felipe, sou programador e engenheiro de software apaixo
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
-</div>
-
-<div align="center">
-  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div>
 
 <div align="center">
   <h3>Codificando um futuro melhor, uma linha por vez!</h3>
