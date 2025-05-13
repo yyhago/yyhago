@@ -1,6 +1,6 @@
-> Engenheiro de Software | Yhago Felipe
+Engenheiro de Software | Yhago Felipe
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/yyhago">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
