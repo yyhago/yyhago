@@ -1,7 +1,10 @@
 <h1 align="center">Yhago Felipe</h1>
 <h3 align="center">Software Developer | Cyber Security</h3>
 
-**`Técnico em Desenvolvimento de Sistemas`** **`Engenharia de Software`** **`Cyber Security`**
+<div align="center">
+  **`Técnico em Desenvolvimento de Sistemas`** **`Engenharia de Software`** **`Cyber Security`**
+</div>
+
 
 <p align="center">
   <a href="https://github.com/yyhago"><img src="https://img.shields.io/github/followers/yyhago?logo=github&style=for-the-badge" alt="followers" /></a>
