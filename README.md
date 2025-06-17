@@ -1,4 +1,3 @@
-**`Técnico em Desenvolvimento de Sistemas`** **`Engenharia de Software`** **`Cyber Security`**
 <h3 align="center">Software Developer | Cyber Security</h3>
 
 <p align="center">
@@ -24,7 +23,7 @@ const yhago = {
 <img align="right" width="300" src="https://github.com/CodeDiaz/CodeDiaz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 Opaa👋! Me chamo Yhago Felipe, sou programador e engenheiro de software apaixonado por criar aplicações para soluções de problemas. Com um foco em desenvolvimento full stack, estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades. Acredito no poder da tecnologia para transformar e melhorar vidas. Cada linha de código é uma oportunidade para criar algo significativo.
-
+**`Técnico em Desenvolvimento de Sistemas`** **`Engenharia de Software`** **`Cyber Security`**
 <br>
 <div align="center">
   <h3>🚀 Tecnologias & Ferramentas</h3>
