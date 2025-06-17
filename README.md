@@ -1,9 +1,7 @@
 <h1 align="center">Yhago Felipe</h1>
-<h3 align="center">Engenheiro de Software | Desenvolvedor Full Stack</h3>
+<h3 align="center">Software Developer | Cyber Security</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack;Engenheiro+de+Software;Tecnologia+%26+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
-</p>
+**`Técnico em Desenvolvimento de Sistemas`** **`Engenharia de Software`** **`Cyber Security`**
 
 <p align="center">
   <a href="https://github.com/yyhago"><img src="https://img.shields.io/github/followers/yyhago?logo=github&style=for-the-badge" alt="followers" /></a>
@@ -17,9 +15,9 @@
 
 ```javascript
 const yhago = {
-  localização: "Brasil",
-  formação: "Engenharia de Software",
-  interesses: ["Desenvolvimento full-stack", "Cloud Computing", "Inteligencia-artificial"],
+  localização: "Brasil São-Paulo",
+  formação: "Engenharia de Software", "Técnico em Desenvolvimento de Sistemas (ETEC/SENAI)",
+  interesses: ["Desenvolvimento full-stack", "Cloud Computing", "Inteligencia-artificial", "Cyber Security"],
   hobbies: ["Codar", "Música", "Aprendizado contínuo"],
   objetivos: "Desenvolver soluções tecnológicas que transformem experiências"
 };
