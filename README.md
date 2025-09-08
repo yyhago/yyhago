@@ -1,4 +1,3 @@
-```markdown
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
