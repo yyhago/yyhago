@@ -1,104 +1,92 @@
-<h3 align="center">Software Developer</h3>
+# Yhago Felipe
+
+**Engenheiro de Software** | Full Stack Developer | São Paulo, Brasil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yhagofelipe/)
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail)](mailto:yhago.felipe.teles@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/yyhago?label=Seguidores&style=flat&logo=github)](https://github.com/yyhago)
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor full stack apaixonado por criar soluções tecnológicas que resolvem problemas reais. Atualmente cursando Engenharia de Software na Estácio de Sá, com formação técnica em Desenvolvimento de Sistemas pela ETEC/SENAI.
+
+Meu foco está em construir aplicações escaláveis e eficientes, sempre buscando as melhores práticas de desenvolvimento e arquitetura de software. Acredito que cada projeto é uma oportunidade de aprender e evoluir como profissional.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### Backend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas GitHub
 
 <p align="center">
-  <a href="https://github.com/yyhago"><img src="https://img.shields.io/github/followers/yyhago?logo=github&style=for-the-badge" alt="followers" /></a>
-  <a href="https://github.com/yyhago"><img src="https://img.shields.io/github/stars/yyhago?logo=github&style=for-the-badge" alt="stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=yyhago&style=for-the-badge&color=0969da" alt="profile views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyhago&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhago&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </p>
-
-<br>
-
-## Quem sou eu 💻
-
-```javascript
-const yhago = {
-  localização: "Brasil, São Paulo",
-  formação: ["Engenharia de Software (Estácio de Sá)", "Técnico em Desenvolvimento de Sistemas (ETEC/SENAI)"],
-  interesses: ["Desenvolvimento Full Stack", "Cloud Computing", "Inteligência Artificial"],
-  hobbies: ["Codar", "Música", "Aprendizado contínuo"],
-  objetivo: "Criar soluções inovadoras que transformem experiências através da tecnologia"
-};
-```
-
-<img align="right" width="300" src="https://github.com/CodeDiaz/CodeDiaz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-Opaa👋! Me chamo Yhago Felipe, sou programador e estudante de engenharia de software. Apaixonado por criar aplicações para soluções de problemas, sempre com um foco em desenvolvimento full stack, estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades. Acredito no poder da tecnologia para transformar e melhorar vidas. Cada linha de código é uma oportunidade para criar algo significativo.
-**`Técnico em Desenvolvimento de Sistemas`** **`Engenharia de Software`** 
-<br>
-<div align="center">
-  <h3>🚀 Tecnologias & Ferramentas</h3>
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 8px;">
-    
-  <!-- 🔹 Linguagens -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-  <!-- 🔹 Frameworks & Libs -->
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-
-  <!-- 🔹 Bancos de Dados -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-
-  <!-- 🔹 DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-
-  <!-- 🔹 Outras Ferramentas -->
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  </div>
-</div>
-<br>
-
-## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyhago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=00000000&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyhago&layout=compact&langs_count=7&theme=tokyonight&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yyhago&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
-<br>
+---
 
-## 📫 Conecte-se comigo
+## 🚀 Projetos em Destaque
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yhagofelipe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yhago.felipe.teles@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/yyhago" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+Explore meus repositórios para ver projetos envolvendo:
+- Aplicações full stack com React, Next.js e Node.js
+- APIs RESTful com NestJS e FastAPI
+- Soluções em cloud computing
+- Automações e scripts em Python
 
-<br>
+---
 
-<div align="center">
-  <h3>Codificando um futuro melhor, uma linha por vez!</h3>
-</div>
-```
+## 📫 Vamos Conversar?
+
+Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você tem um projeto interessante ou quer trocar ideias sobre tecnologia, entre em contato!
+
+- 📧 Email: yhago.felipe.teles@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yhagofelipe](https://www.linkedin.com/in/yhagofelipe/)
+- 🌐 GitHub: [@yyhago](https://github.com/yyhago)
+
+---
+
+<p align="center">
+  <i>"Transformando ideias em código, uma linha por vez."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yyhago&color=0969da&style=flat" alt="Profile views" />
+</p>
