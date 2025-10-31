@@ -74,16 +74,6 @@ Meu foco está em construir aplicações escaláveis e eficientes, sempre buscan
 
 ---
 
-## 🚀 Projetos em Destaque
-
-Explore meus repositórios para ver projetos envolvendo:
-- Aplicações full stack com React, Next.js e Node.js
-- APIs RESTful com NestJS e FastAPI
-- Soluções em cloud computing
-- Automações e scripts em Python
-
----
-
 ## 📫 Vamos Conversar?
 
 Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você tem um projeto interessante ou quer trocar ideias sobre tecnologia, entre em contato!
