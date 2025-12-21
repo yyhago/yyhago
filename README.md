@@ -82,11 +82,3 @@
 <h4 align="left">📫 Vamos Conversar?<br><br>Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você tem um projeto interessante ou quer trocar ideias sobre tecnologia, entre em contato!<br><br>- 📧 Email: yhago.felipe.teles@gmail.com<br>- 💼 LinkedIn: [linkedin.com/in/yhagofelipe](https://www.linkedin.com/in/yhagofelipe/)<br>- 🌐 GitHub: [@yyhago](https://github.com/yyhago)</h4>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhago/yyhago/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyhago/yyhago/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yyhago/yyhago/output/pacman-contribution-graph.svg">
-</picture>
-
-###
