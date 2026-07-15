@@ -16,7 +16,7 @@
 
 Minha entrada na tecnologia começou no time de **Cibersegurança** de uma indústria farmacêutica, onde desenvolvi automações em Python que reduziram em **40%** o tempo de operações manuais. Essa lógica de *"automatizar antes de escalar"* virou a base de como penso arquitetura até hoje.
 
-Desde então, venho construindo experiência sólida em **back-end e front-end**, com foco em **APIs RESTful bem arquitetadas** (NestJS, Clean Architecture) e **integração de sistemas complexos** — já lidei com ERPs (OMIE, ERPFLEX, Datasul/TOTVS), automações via **n8n** e infraestrutura própria (VPS, Docker, Nginx).
+Desde então, venho construindo experiência sólida em **back-end e front-end**, com foco em **APIs RESTful bem arquitetadas** (NestJS, Clean Architecture) e **integração de sistemas complexos** já lidei com ERPs (OMIE, ERPFLEX, Datasul/TOTVS), automações via **n8n** e infraestrutura própria (VPS, Docker, Nginx).
 
 - Cursando **Engenharia de Software** no Centro Universitário Estácio de Sá
 - Formação técnica em Desenvolvimento de Sistemas pelo **SENAI** e **ETEC**
@@ -112,7 +112,6 @@ Desde então, venho construindo experiência sólida em **back-end e front-end**
 | **SafetyKeeper** | Sistema de gestão de Segurança e Saúde do Trabalho (SST) para múltiplos clientes corporativos | NestJS, TypeScript, PostgreSQL, API REST |
 | **MundoPet** | Marketplace e-commerce completo (TCC), com carrinho, catálogo dinâmico e painel administrativo | Node.js, Express, React, Redux, MongoDB |
 
-> Mais detalhes de cada projeto nos repositórios fixados abaixo do meu perfil.
 
 ---
 
