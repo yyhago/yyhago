@@ -20,7 +20,7 @@ Desde então, venho construindo experiência sólida em **back-end e front-end**
 
 - Cursando **Engenharia de Software** no Centro Universitário Estácio de Sá
 - Formação técnica em Desenvolvimento de Sistemas pelo **SENAI** e **ETEC**
-- Bolsista do Programa **Mackenzie CPM** (Microsoft/SENAI) — Inglês técnico
+- Bolsista do Programa **Mackenzie CPM** (Microsoft/SENAI) Inglês técnico
 - Certificado **Microsoft Azure** (AZ-900, AI-900, SC-900) e +20 cursos em Full Stack, Cloud e DevOps
 - Sempre aberto a trocar ideia sobre arquitetura, automação e boas práticas de código
 
