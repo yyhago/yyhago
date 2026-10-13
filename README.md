@@ -4,7 +4,7 @@
 
 **Engenheiro de Software · Full Stack**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+mais+de+20+clientes;4%2B+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+antes+da+escala" alt="Resumo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+23+projetos+de+clientes;4%2B+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+antes+da+escala" alt="Resumo" />
 
 Hortolândia, SP · Português nativo · Inglês intermediário
 
@@ -26,9 +26,9 @@ Sou full stack, mas a maior parte da minha experiência está no back-end. Gosto
 
 <div align="center">
 
-| +20 | +40% | +4 | +23 |
+| +23 | +40% | +4 | +23 |
 |:---:|:---:|:---:|:---:|
-| clientes atendidos<br/>com APIs em produção | menos tempo em<br/>operações manuais | ERPs integrados<br/>Bling, OMIE, ERPFLEX, Datasul | certificados<br/>concluídos |
+| projetos de clientes<br/>com APIs em produção | menos tempo em<br/>operações manuais | ERPs integrados<br/>Bling, OMIE, ERPFLEX, Datasul | certificados<br/>concluídos |
 
 </div>
 
@@ -38,19 +38,19 @@ Sou full stack, mas a maior parte da minha experiência está no back-end. Gosto
 
 **Freecook Brasil · Desenvolvedor Full Stack · mar. 2026 até hoje · Campinas, SP**
 
-Construí do zero a plataforma que roda a operação inteira da empresa, do pedido na loja virtual até a baixa no estoque, reunindo loja, painel administrativo, portal comercial e site institucional. Conduzi a saída do WordPress legado sem parar a operação, migrei a integração de ERP do ERPFLEX para o OMIE mantendo estoque, pedidos e clientes consistentes, e montei as automações que ligam ERP, CRM e sistemas internos. Também configurei a infraestrutura, vps, proxy reverso, SSL e backups automáticos do banco de dados.
+Quando entrei, a loja e a gestão rodavam em WordPress, ligadas ao ERPFLEX. Desenhei a arquitetura do novo sistema do zero, com loja virtual, painel administrativo, portal comercial e site institucional, cobrindo todo o fluxo da compra até a emissão da nota fiscal integrada ao ERP. No meio disso, migramos do ERPFLEX para o OMIE sem parar as vendas da loja. Também configurei toda a infraestrutura, com servidores VPS, proxy reverso, SSL, domínios e Cloudflare. Hoje mantenho a plataforma que construí e automatizo os processos manuais da empresa.
 
 **CroSoften Tecnologia · Desenvolvedor Back-end · jan. 2026 a ago. 2026 · remoto**
 
-Desenvolvi APIs REST para mais de 20 projetos, com regras de negócio complexas, autenticação, controle de permissões e várias integrações externas. As APIs eram documentadas e consumidas por apps iOS e front-ends web. Entre os projetos estão Vitrine do Campo, Cardio Shop, SAFE/ERICA, Ships Manager, e outros.
+Desenvolvi o back-end de 23 projetos de clientes, servindo aplicações em Angular e iOS, com regras de negócio, autenticação, controle de permissões e integrações externas. Fazia também a modelagem do banco de dados, e em alguns projetos construí as interfaces a partir dos protótipos do time de design no Figma. Entre os projetos estão Vitrine do Campo, Cardio Shop, SAFE/ERICA, Ships Manager, Minha Revenda e Cupom Clube.
 
 **DBS System Consultoria · Desenvolvedor Full Stack · set. 2025 a dez. 2025 · remoto**
 
-Modernizei sistemas legados em ambiente industrial. Refiz as integrações com o Datasul (TOTVS), trocando transferência manual de dados por consumo direto de API, e reconstruí telas antigas sem interromper a produção. Entreguei o projeto de escopo fechado em 4 meses, com autonomia total nas decisões técnicas.
+Contrato de 4 meses em uma consultoria que atende indústrias. Desenvolvi telas e funções de lógica de negócio integradas ao TOTVS Datasul, e acompanhei de perto o desenvolvimento em Progress, a linguagem usada no ERP para consultas e regras.
 
 **Grupo EMS · Jovem Aprendiz em TI, Cibersegurança · jan. 2025 a set. 2025 · Hortolândia, SP**
 
-Meu primeiro emprego. Criei aplicações internas em Python para automação de processos e proteção de dados, e configurei pipelines para executar e monitorar essas automações.
+Meu primeiro emprego. Entrei no time de Cibersegurança, mas como meu objetivo era desenvolvimento, fui direcionado para automação de processos. Criei automações em Python que se conectavam a planilhas Excel, extraíam dados e geravam relatórios prontos para as equipes, reduzindo em 40% o tempo dessas tarefas.
 
 <br/>
 
@@ -61,7 +61,7 @@ Meu primeiro emprego. Criei aplicações internas em Python para automação de 
 <td width="50%" valign="top">
 
 **SafetyKeeper**<br/>
-<sub>Segurança do trabalho · cliente JCFireWall · <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
+<sub>Segurança do trabalho · cliente JCFireWall · sistema interno</sub>
 
 O controle de conformidade ficava em planilhas, sem separação entre empresas e sem histórico de alterações. Entreguei um sistema multiempresa com isolamento de dados por cliente, permissões por perfil e trilha de auditoria.
 
@@ -69,7 +69,7 @@ O controle de conformidade ficava em planilhas, sem separação entre empresas e
 <td width="50%" valign="top">
 
 **CUBE**<br/>
-<sub>Análise política · cliente CUBE Inteligência · <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
+<sub>Análise política · cliente CUBE Inteligência · sistema interno</sub>
 
 Plataforma que acompanha em tempo real o que a mídia publica sobre temas e figuras políticas, mede o sentimento com IA e mostra tudo em dashboards preparados para os picos de acesso do período eleitoral.
 
@@ -97,7 +97,7 @@ Tema próprio que a equipe consegue atualizar sozinha, formulário de contato pr
 <td width="50%" valign="top">
 
 **Cyberbot**<br/>
-<sub>Assistente de cibersegurança · projeto em equipe <a href="https://github.com/rafafrd/Cyberbot">Ver online</a></sub>
+<sub>Assistente de cibersegurança · projeto em equipe · <a href="https://github.com/rafafrd/Cyberbot">Ver código</a></sub>
 
 Chatbot que responde dúvidas de segurança, gera e avalia senhas e simula ataques de phishing para treinamento.
 
@@ -105,7 +105,7 @@ Chatbot que responde dúvidas de segurança, gera e avalia senhas e simula ataqu
 <td width="50%" valign="top">
 
 **MundoPet**<br/>
-<sub>Marketplace pet · TCC da ETEC · <a href="https://github.com/yyhago/pet-marketplace-etec">Ver Código</a></sub>
+<sub>Marketplace pet · TCC da ETEC · <a href="https://github.com/yyhago/pet-marketplace-etec">Ver código</a></sub>
 
 Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pagamento.
 
