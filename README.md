@@ -4,12 +4,6 @@
 
 ### Desenvolvedor Full Stack | Arquitetura de Sistemas & Automação
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yhagofelipe/)
-[![Gmail](https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yhago.felipe.teles@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/yyhago?label=Seguidores&style=flat&logo=github)](https://github.com/yyhago)
-
-</div>
-
 ---
 
 ### Sobre mim
