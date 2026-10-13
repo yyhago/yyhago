@@ -59,7 +59,7 @@ Meu primeiro emprego. Criei aplicações internas em Python para automação de 
 <td width="50%" valign="top">
 
 **SafetyKeeper**<br/>
-<sub>Gestão de saúde e segurança do trabalho · cliente JCFireWall</sub>
+<sub>Gestão de saúde e segurança do trabalho · cliente JCFireWall · <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
 
 O controle de conformidade ficava em planilhas, sem separação entre empresas e sem histórico de alterações. Entreguei um sistema multiempresa com isolamento de dados por cliente, permissões por perfil e trilha de auditoria.
 
@@ -67,7 +67,7 @@ O controle de conformidade ficava em planilhas, sem separação entre empresas e
 <td width="50%" valign="top">
 
 **CUBE**<br/>
-<sub>Análise política · cliente CUBE Inteligência</sub>
+<sub>Análise política · cliente CUBE Inteligência <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
 
 Plataforma que acompanha em tempo real o que a mídia publica sobre temas e figuras políticas, mede o sentimento com IA e mostra tudo em dashboards preparados para os picos de acesso do período eleitoral.
 
@@ -77,7 +77,7 @@ Plataforma que acompanha em tempo real o que a mídia publica sobre temas e figu
 <td width="50%" valign="top">
 
 **Raquel Ribeiro Advocacia**<br/>
-<sub>Landing page · <a href="https://raquel-ribeiro-advocacia-psi.vercel.app">ver online</a></sub>
+<sub>Landing page · <a href="https://raquel-ribeiro-advocacia-psi.vercel.app">Ver online</a></sub>
 
 Página pensada para aparecer no Google e converter contato pelo WhatsApp. Lighthouse acima de 95 em todas as categorias e carregamento principal abaixo de 2,5 s.
 
@@ -85,7 +85,7 @@ Página pensada para aparecer no Google e converter contato pelo WhatsApp. Light
 <td width="50%" valign="top">
 
 **SGI Treinamentos e Assessoria**<br/>
-<sub>Site institucional · <a href="https://sgitreinamentosassessoria.com">ver online</a></sub>
+<sub>Site institucional · <a href="https://sgitreinamentosassessoria.com">Ver online</a></sub>
 
 Tema próprio que a equipe consegue atualizar sozinha, formulário de contato protegido e deploy automático com possibilidade de rollback.
 
@@ -95,7 +95,7 @@ Tema próprio que a equipe consegue atualizar sozinha, formulário de contato pr
 <td width="50%" valign="top">
 
 **Cyberbot**<br/>
-<sub>Assistente de cibersegurança · projeto em equipe</sub>
+<sub>Assistente de cibersegurança · projeto em equipe <a href="https://github.com/rafafrd/Cyberbot">Ver online</a></sub>
 
 Chatbot que responde dúvidas de segurança, gera e avalia senhas e simula ataques de phishing para treinamento.
 
@@ -103,7 +103,7 @@ Chatbot que responde dúvidas de segurança, gera e avalia senhas e simula ataqu
 <td width="50%" valign="top">
 
 **MundoPet**<br/>
-<sub>Marketplace pet · TCC da ETEC · <a href="https://github.com/yyhago/pet-marketplace-etec">código</a></sub>
+<sub>Marketplace pet · TCC da ETEC · <a href="https://github.com/yyhago/pet-marketplace-etec">Ver Código</a></sub>
 
 Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pagamento.
 
