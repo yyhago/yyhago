@@ -36,19 +36,19 @@ Sou full stack, mas a maior parte da minha experiência está no back-end. Gosto
 
 ## Experiência
 
-**Freecook Brasil** · Desenvolvedor Full Stack · mar. 2026 até hoje · Campinas, SP
+**Freecook Brasil · Desenvolvedor Full Stack · mar. 2026 até hoje · Campinas, SP**
 
 Construí do zero a plataforma que roda a operação inteira da empresa, do pedido na loja virtual até a baixa no estoque, reunindo loja, painel administrativo, portal comercial e site institucional. Conduzi a saída do WordPress legado sem parar a operação, migrei a integração de ERP do ERPFLEX para o OMIE mantendo estoque, pedidos e clientes consistentes, e montei as automações que ligam ERP, CRM e sistemas internos. Também configurei a infraestrutura, vps, proxy reverso, SSL e backups automáticos do banco de dados.
 
-**CroSoften Tecnologia** · Desenvolvedor Back-end · jan. 2026 a ago. 2026 · remoto
+**CroSoften Tecnologia · Desenvolvedor Back-end · jan. 2026 a ago. 2026 · remoto**
 
 Desenvolvi APIs REST para mais de 20 projetos, com regras de negócio complexas, autenticação, controle de permissões e várias integrações externas. As APIs eram documentadas e consumidas por apps iOS e front-ends web. Entre os projetos estão Vitrine do Campo, Cardio Shop, SAFE/ERICA, Ships Manager, e outros.
 
-**DBS System Consultoria** · Desenvolvedor Full Stack · set. 2025 a dez. 2025 · remoto
+**DBS System Consultoria · Desenvolvedor Full Stack · set. 2025 a dez. 2025 · remoto**
 
 Modernizei sistemas legados em ambiente industrial. Refiz as integrações com o Datasul (TOTVS), trocando transferência manual de dados por consumo direto de API, e reconstruí telas antigas sem interromper a produção. Entreguei o projeto de escopo fechado em 4 meses, com autonomia total nas decisões técnicas.
 
-**Grupo EMS** · Jovem Aprendiz em TI, Cibersegurança · jan. 2025 a set. 2025 · Hortolândia, SP
+**Grupo EMS · Jovem Aprendiz em TI, Cibersegurança · jan. 2025 a set. 2025 · Hortolândia, SP**
 
 Meu primeiro emprego. Criei aplicações internas em Python para automação de processos e proteção de dados, e configurei pipelines para executar e monitorar essas automações.
 
@@ -119,12 +119,13 @@ Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pag
 
 ## Formação
 
-| Curso | Instituição | Período | Situação |
-|---|---|---|---|
-| Bacharelado em Engenharia de Software | Centro Universitário Estácio de Sá | 2025 - 2028 | Em andamento |
-| Técnico em Desenvolvimento de Sistemas | SENAI Dr. Celso Charuri | 2025 | Concluído |
-| Técnico em Desenvolvimento de Sistemas com Ensino Médio | ETEC Hortolândia | 2022 - 2024 | Concluído |
-| Inglês, Programa Cidadão Pró-Mundo | Universidade Presbiteriana Mackenzie | 2025 - 2029 | Em andamento |
+<table>
+<tr><th align="left" width="38%">Curso</th><th align="left">Instituição</th><th nowrap>Período</th><th nowrap>Situação</th></tr>
+<tr><td>Bacharelado em Engenharia de Software</td><td>Centro Universitário Estácio de Sá</td><td nowrap>2025 - 2028</td><td nowrap>Em andamento</td></tr>
+<tr><td>Técnico em Desenvolvimento de Sistemas</td><td>SENAI Dr. Celso Charuri</td><td nowrap>2025</td><td nowrap>Concluído</td></tr>
+<tr><td>Técnico em Desenvolvimento de Sistemas com Ensino Médio</td><td>ETEC Hortolândia</td><td nowrap>2022 - 2024</td><td nowrap>Concluído</td></tr>
+<tr><td>Inglês, Programa Cidadão Pró-Mundo</td><td>Universidade Presbiteriana Mackenzie</td><td nowrap>2025 - 2029</td><td nowrap>Em andamento</td></tr>
+</table>
 
 <sub>A bolsa do Mackenzie veio de um programa da Microsoft com o SENAI Sumaré. Fui um dos 20 alunos aprovados na prova de seleção.</sub>
 
