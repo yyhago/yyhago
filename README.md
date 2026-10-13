@@ -126,7 +126,7 @@ Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pag
 | Técnico em Desenvolvimento de Sistemas com Ensino Médio | ETEC Hortolândia | 2022 a 2024 | Concluído |
 | Inglês, Programa Cidadão Pró-Mundo | Universidade Presbiteriana Mackenzie | 2025 a 2029 | Em andamento |
 
-<sub>A bolsa do Mackenzie veio de um programa da Microsoft com o SENAI Sumaré, que selecionou 20 alunos da região.</sub>
+<sub>A bolsa do Mackenzie veio de um programa da Microsoft com o SENAI Sumaré. Fui um dos 20 alunos aprovados na prova de seleção.</sub>
 
 <br/>
 
