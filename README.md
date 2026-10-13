@@ -4,7 +4,7 @@
 
 **Engenheiro de Software · Full Stack**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+mais+de+20+clientes;4+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automatizar+antes+de+escalar" alt="Resumo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+mais+de+20+clientes;4%2B+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+antes+da+escala" alt="Resumo" />
 
 Hortolândia, SP · Português nativo · Inglês intermediário
 
