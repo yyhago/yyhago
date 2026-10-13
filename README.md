@@ -16,7 +16,7 @@ Hortolândia, SP · Português nativo · Inglês intermediário
 
 ## Sobre
 
-Comecei na tecnologia dentro do time de Cibersegurança do Grupo EMS, escrevendo automações em Python para tarefas que o pessoal fazia na mão. Elas reduziram em 40% o tempo dessas operações, e foi ali que aprendi a regra que sigo até hoje: antes de escalar um processo, automatize o que ainda é manual.
+Comecei na tecnologia dentro do time de Cibersegurança do Grupo EMS, escrevendo automações em Python para tarefas que o pessoal fazia na mão. Elas reduziram em 40% o tempo dessas operações, e foi ali que aprendi a regra que sigo até hoje, antes de escalar um processo, automatize o que ainda é manual.
 
 Hoje trabalho principalmente com back-end. Gosto de levantar requisitos direto com quem vai usar o sistema, manter a regra de negócio separada do framework, validar os dados na entrada e entregar tudo documentado e pronto para subir com Docker. Também cuido da minha própria infraestrutura, do servidor ao deploy.
 
