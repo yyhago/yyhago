@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=1&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Yhago+Felipe" alt="Yhago Felipe" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Desenvolvedor+Full+Stack%2C+foco+em+back-end;APIs+para+mais+de+20+clientes;4+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automatizar+antes+de+escalar" alt="Resumo" />
+**Engenheiro de Software · Full Stack, com mais experiência no back-end**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+mais+de+20+clientes;4+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automatizar+antes+de+escalar" alt="Resumo" />
 
 Hortolândia, SP · Português nativo · Inglês intermediário
 
@@ -18,13 +20,13 @@ Hortolândia, SP · Português nativo · Inglês intermediário
 
 Comecei na tecnologia dentro do time de Cibersegurança do Grupo EMS, escrevendo automações em Python para tarefas que o pessoal fazia na mão. Elas reduziram em 40% o tempo dessas operações, e foi ali que aprendi a regra que sigo até hoje, antes de escalar um processo, automatize o que ainda é manual.
 
-Hoje trabalho principalmente com back-end. Gosto de levantar requisitos direto com quem vai usar o sistema, manter a regra de negócio separada do framework, validar os dados na entrada e entregar tudo documentado e pronto para subir com Docker. Também cuido da minha própria infraestrutura, do servidor ao deploy.
+Sou full stack, mas a maior parte da minha experiência está no back-end. Gosto de levantar requisitos direto com quem vai usar o sistema, manter a regra de negócio separada do framework, validar os dados na entrada e entregar tudo documentado e pronto para subir com Docker. Também cuido da minha própria infraestrutura, do servidor ao deploy.
 
 <br/>
 
 <div align="center">
 
-| 20+ | 40% | 4 | 23 |
+| +20 | +40% | +4 | +23 |
 |:---:|:---:|:---:|:---:|
 | clientes atendidos<br/>com APIs em produção | menos tempo em<br/>operações manuais | ERPs integrados<br/>Bling, OMIE, ERPFLEX, Datasul | certificados<br/>concluídos |
 
@@ -67,7 +69,7 @@ O controle de conformidade ficava em planilhas, sem separação entre empresas e
 <td width="50%" valign="top">
 
 **CUBE**<br/>
-<sub>Análise política · cliente CUBE Inteligência <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
+<sub>Análise política · cliente CUBE Inteligência · <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
 
 Plataforma que acompanha em tempo real o que a mídia publica sobre temas e figuras políticas, mede o sentimento com IA e mostra tudo em dashboards preparados para os picos de acesso do período eleitoral.
 
@@ -117,12 +119,12 @@ Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pag
 
 ## Formação
 
-| Curso | Instituição | Período |
-|---|---|---|
-| Bacharelado em Engenharia de Software | Centro Universitário Estácio de Sá | 2025 a 2028, em andamento |
-| Técnico em Desenvolvimento de Sistemas | SENAI Dr. Celso Charuri | 2025 |
-| Técnico em Desenvolvimento de Sistemas com Ensino Médio | ETEC Hortolândia | 2022 a 2024 |
-| Inglês, Programa Cidadão Pró-Mundo | Universidade Presbiteriana Mackenzie | 2025 a 2029, em andamento |
+| Curso | Instituição | Período | Situação |
+|---|---|---|---|
+| Bacharelado em Engenharia de Software | Centro Universitário Estácio de Sá | 2025 a 2028 | Em andamento |
+| Técnico em Desenvolvimento de Sistemas | SENAI Dr. Celso Charuri | 2025 | Concluído |
+| Técnico em Desenvolvimento de Sistemas com Ensino Médio | ETEC Hortolândia | 2022 a 2024 | Concluído |
+| Inglês, Programa Cidadão Pró-Mundo | Universidade Presbiteriana Mackenzie | 2025 a 2029 | Em andamento |
 
 <sub>A bolsa do Mackenzie veio de um programa da Microsoft com o SENAI Sumaré, que selecionou 20 alunos da região.</sub>
 
@@ -176,10 +178,6 @@ Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pag
 ## Atividade
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yyhago&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681&stroke=30363D&currStreakNum=E6EDF3&sideNums=E6EDF3&locale=pt_BR" alt="Sequência de contribuições" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhago/yyhago/output/github-snake-dark.svg" />
