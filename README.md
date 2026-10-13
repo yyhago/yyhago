@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=1&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Yhago+Felipe" alt="Yhago Felipe" />
 
-**Engenheiro de Software · Full Stack, com mais experiência no back-end**
+**Engenheiro de Software · Full Stack**
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+mais+de+20+clientes;4+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automatizar+antes+de+escalar" alt="Resumo" />
 
