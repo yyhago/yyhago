@@ -38,11 +38,11 @@ Sou full stack, mas a maior parte da minha experiência está no back-end. Gosto
 
 **Freecook Brasil** · Desenvolvedor Full Stack · mar. 2026 até hoje · Campinas, SP
 
-Construí do zero a plataforma que roda a operação inteira da empresa, do pedido na loja virtual até a baixa no estoque, reunindo loja, painel administrativo, portal comercial e site institucional. Conduzi a saída do WordPress legado sem parar a operação, migrei a integração de ERP do ERPFLEX para o OMIE mantendo estoque, pedidos e clientes consistentes, e montei as automações que ligam ERP, CRM e sistemas internos. Também configurei a infraestrutura, com servidor, proxy reverso, SSL e backups automáticos.
+Construí do zero a plataforma que roda a operação inteira da empresa, do pedido na loja virtual até a baixa no estoque, reunindo loja, painel administrativo, portal comercial e site institucional. Conduzi a saída do WordPress legado sem parar a operação, migrei a integração de ERP do ERPFLEX para o OMIE mantendo estoque, pedidos e clientes consistentes, e montei as automações que ligam ERP, CRM e sistemas internos. Também configurei a infraestrutura, vps, proxy reverso, SSL e backups automáticos do banco de dados.
 
 **CroSoften Tecnologia** · Desenvolvedor Back-end · jan. 2026 a ago. 2026 · remoto
 
-Desenvolvi e mantive APIs REST para mais de 20 clientes ao mesmo tempo, com regras de negócio complexas, autenticação, controle de permissões e várias integrações externas. As APIs eram documentadas e consumidas por apps iOS e front-ends web. Entre os projetos estão Vitrine do Campo, Cardio Shop, SAFE/ERICA e Ships Manager.
+Desenvolvi APIs REST para mais de 20 projetos, com regras de negócio complexas, autenticação, controle de permissões e várias integrações externas. As APIs eram documentadas e consumidas por apps iOS e front-ends web. Entre os projetos estão Vitrine do Campo, Cardio Shop, SAFE/ERICA, Ships Manager, e outros.
 
 **DBS System Consultoria** · Desenvolvedor Full Stack · set. 2025 a dez. 2025 · remoto
 
@@ -61,7 +61,7 @@ Meu primeiro emprego. Criei aplicações internas em Python para automação de 
 <td width="50%" valign="top">
 
 **SafetyKeeper**<br/>
-<sub>Gestão de saúde e segurança do trabalho · cliente JCFireWall · <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
+<sub>Segurança do trabalho · cliente JCFireWall · <a href="#">SISTEMA INTERNO DA EMPRESA</a></sub>
 
 O controle de conformidade ficava em planilhas, sem separação entre empresas e sem histórico de alterações. Entreguei um sistema multiempresa com isolamento de dados por cliente, permissões por perfil e trilha de auditoria.
 
@@ -121,10 +121,10 @@ Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pag
 
 | Curso | Instituição | Período | Situação |
 |---|---|---|---|
-| Bacharelado em Engenharia de Software | Centro Universitário Estácio de Sá | 2025 a 2028 | Em andamento |
+| Bacharelado em Engenharia de Software | Centro Universitário Estácio de Sá | 2025 - 2028 | Em andamento |
 | Técnico em Desenvolvimento de Sistemas | SENAI Dr. Celso Charuri | 2025 | Concluído |
-| Técnico em Desenvolvimento de Sistemas com Ensino Médio | ETEC Hortolândia | 2022 a 2024 | Concluído |
-| Inglês, Programa Cidadão Pró-Mundo | Universidade Presbiteriana Mackenzie | 2025 a 2029 | Em andamento |
+| Técnico em Desenvolvimento de Sistemas com Ensino Médio | ETEC Hortolândia | 2022 - 2024 | Concluído |
+| Inglês, Programa Cidadão Pró-Mundo | Universidade Presbiteriana Mackenzie | 2025 - 2029 | Em andamento |
 
 <sub>A bolsa do Mackenzie veio de um programa da Microsoft com o SENAI Sumaré. Fui um dos 20 alunos aprovados na prova de seleção.</sub>
 
