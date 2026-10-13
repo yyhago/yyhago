@@ -1,179 +1,199 @@
-<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=220&section=header&text=Yhago%20Felipe&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20Arquitetura%20de%20Sistemas%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=1&pause=100000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Yhago+Felipe" alt="Yhago Felipe" />
 
-<a href="https://github.com/yyhago">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=620&lines=Automatizar+antes+de+escalar.;APIs+que+aguentam+o+mundo+real.;Integrando+sistemas+que+n%C3%A3o+querem+conversar.;Da+ciberseguran%C3%A7a+%C3%A0+arquitetura+de+software." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Desenvolvedor+Full+Stack%2C+foco+em+back-end;APIs+para+mais+de+20+clientes;4+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automatizar+antes+de+escalar" alt="Resumo" />
+
+Hortolândia, SP · Português nativo · Inglês intermediário
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yhagofelipe-161b22?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhagofelipe/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-acessar-161b22?style=flat-square&logo=vercel&logoColor=white)](https://portfoliodev-yhagofelipe.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-yhago.felipe.teles@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=white)](mailto:yhago.felipe.teles@gmail.com)
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yhagofelipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhagofelipe/)
-[![Email](https://img.shields.io/badge/Email-Fale_comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhago.felipe.teles@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yyhago&style=for-the-badge&color=1f6feb&label=VISITAS)
+## Sobre
 
-</div>
+Comecei na tecnologia dentro do time de Cibersegurança do Grupo EMS, escrevendo automações em Python para tarefas que o pessoal fazia na mão. Elas reduziram em 40% o tempo dessas operações, e foi ali que aprendi a regra que sigo até hoje: antes de escalar um processo, automatize o que ainda é manual.
 
-<!-- ═══════════════════════════════ WHOAMI ═══════════════════════════════ -->
+Hoje trabalho principalmente com back-end. Gosto de levantar requisitos direto com quem vai usar o sistema, manter a regra de negócio separada do framework, validar os dados na entrada e entregar tudo documentado e pronto para subir com Docker. Também cuido da minha própria infraestrutura, do servidor ao deploy.
 
-## `$ whoami`
-
-```ts
-const yhago = {
-  role:        "Desenvolvedor Full Stack",
-  focus:       ["Arquitetura de Sistemas", "Integrações complexas", "Automação"],
-  origin:      "Time de Cibersegurança — indústria farmacêutica",
-  mindset:     "Automatizar antes de escalar",
-  currently:   "Engenharia de Software @ Estácio",
-  infra:       "Opero minha própria infraestrutura, do servidor ao deploy",
-  openTo:      ["Novos desafios", "Colaborações", "Boas conversas sobre arquitetura"],
-};
-```
-
-<!-- ═══════════════════════════════ STORY ═══════════════════════════════ -->
-
-## Como cheguei aqui
-
-Minha porta de entrada na tecnologia não foi um "Hello World" — foi o time de **Cibersegurança** de uma indústria farmacêutica. Ali, olhando processos manuais repetitivos, escrevi automações em Python que **reduziram em 40% o tempo dessas operações**.
-
-Esse resultado mudou a forma como eu enxergo software: antes de escalar algo, vale perguntar *o que ainda está sendo feito à mão e não deveria*. Essa pergunta virou a base de como eu penso arquitetura até hoje.
-
-Desde então, construí experiência sólida em **back-end e front-end**, com foco em **APIs RESTful bem arquitetadas** e no tipo de problema que costuma assustar: **fazer sistemas legados e ERPs conversarem entre si** sem que tudo vire gambiarra.
-
-<!-- ═══════════════════════════════ IMPACT ═══════════════════════════════ -->
-
-## Impacto em números
+<br/>
 
 <div align="center">
 
-| **-40%** | **3+ ERPs** | **100%** | **+20** |
+| 20+ | 40% | 4 | 23 |
 |:---:|:---:|:---:|:---:|
-| tempo em operações manuais com automações em Python | integrados em produção — OMIE, ERPFLEX e Datasul/TOTVS | da minha infraestrutura gerenciada por mim, do VPS ao proxy reverso | cursos em Full Stack, Cloud e DevOps, além de 3 certificações Azure |
+| clientes atendidos<br/>com APIs em produção | menos tempo em<br/>operações manuais | ERPs integrados<br/>Bling, OMIE, ERPFLEX, Datasul | certificados<br/>concluídos |
 
 </div>
 
-<!-- ═══════════════════════════════ PHILOSOPHY ═══════════════════════════════ -->
+<br/>
 
-## Como eu penso um sistema
+## Experiência
 
-```mermaid
-flowchart LR
-    A["Entender o processo<br/><sub>o que é feito à mão hoje?</sub>"] --> B["Automatizar<br/><sub>remover o trabalho repetitivo</sub>"]
-    B --> C["Arquitetar<br/><sub>camadas claras, regras isoladas</sub>"]
-    C --> D["Integrar<br/><sub>ERPs, APIs e fluxos</sub>"]
-    D --> E["Escalar<br/><sub>com infraestrutura que eu controlo</sub>"]
-    E -. feedback .-> A
-```
+**Freecook Brasil** · Desenvolvedor Full Stack · mar. 2026 até hoje · Campinas, SP
+
+Construí do zero a plataforma que roda a operação inteira da empresa, do pedido na loja virtual até a baixa no estoque, reunindo loja, painel administrativo, portal comercial e site institucional. Conduzi a saída do WordPress legado sem parar a operação, migrei a integração de ERP do ERPFLEX para o OMIE mantendo estoque, pedidos e clientes consistentes, e montei as automações que ligam ERP, CRM e sistemas internos. Também configurei a infraestrutura, com servidor, proxy reverso, SSL e backups automáticos.
+
+**CroSoften Tecnologia** · Desenvolvedor Back-end · jan. 2026 a ago. 2026 · remoto
+
+Desenvolvi e mantive APIs REST para mais de 20 clientes ao mesmo tempo, com regras de negócio complexas, autenticação, controle de permissões e várias integrações externas. As APIs eram documentadas e consumidas por apps iOS e front-ends web. Entre os projetos estão Vitrine do Campo, Cardio Shop, SAFE/ERICA e Ships Manager.
+
+**DBS System Consultoria** · Desenvolvedor Full Stack · set. 2025 a dez. 2025 · remoto
+
+Modernizei sistemas legados em ambiente industrial. Refiz as integrações com o Datasul (TOTVS), trocando transferência manual de dados por consumo direto de API, e reconstruí telas antigas sem interromper a produção. Entreguei o projeto de escopo fechado em 4 meses, com autonomia total nas decisões técnicas.
+
+**Grupo EMS** · Jovem Aprendiz em TI, Cibersegurança · jan. 2025 a set. 2025 · Hortolândia, SP
+
+Meu primeiro emprego. Criei aplicações internas em Python para automação de processos e proteção de dados, e configurei pipelines para executar e monitorar essas automações.
+
+<br/>
+
+## Projetos
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Arquitetura antes de atalho
-Separação de responsabilidades e regras de negócio isoladas da infraestrutura. Código que outra pessoa consegue ler, testar e evoluir — inclusive eu, seis meses depois.
+**SafetyKeeper**<br/>
+<sub>Gestão de saúde e segurança do trabalho · cliente JCFireWall</sub>
+
+O controle de conformidade ficava em planilhas, sem separação entre empresas e sem histórico de alterações. Entreguei um sistema multiempresa com isolamento de dados por cliente, permissões por perfil e trilha de auditoria.
 
 </td>
 <td width="50%" valign="top">
 
-### Integração sem medo
-ERPs com documentação escassa, payloads inconsistentes e regras escondidas. É exatamente o tipo de problema que eu gosto de resolver.
+**CUBE**<br/>
+<sub>Análise política · cliente CUBE Inteligência</sub>
+
+Plataforma que acompanha em tempo real o que a mídia publica sobre temas e figuras políticas, mede o sentimento com IA e mostra tudo em dashboards preparados para os picos de acesso do período eleitoral.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Automação como padrão
-Se uma tarefa se repete, ela vira fluxo. Uso orquestração de workflows para conectar sistemas e tirar pessoas de trabalho que não deveria ser delas.
+**Raquel Ribeiro Advocacia**<br/>
+<sub>Landing page · <a href="https://raquel-ribeiro-advocacia-psi.vercel.app">ver online</a></sub>
+
+Página pensada para aparecer no Google e converter contato pelo WhatsApp. Lighthouse acima de 95 em todas as categorias e carregamento principal abaixo de 2,5 s.
 
 </td>
 <td width="50%" valign="top">
 
-### Segurança no DNA
-Vim da cibersegurança — então validação, princípio do menor privilégio e superfície de ataque entram na conversa desde o primeiro commit, não no último.
+**SGI Treinamentos e Assessoria**<br/>
+<sub>Site institucional · <a href="https://sgitreinamentosassessoria.com">ver online</a></sub>
+
+Tema próprio que a equipe consegue atualizar sozinha, formulário de contato protegido e deploy automático com possibilidade de rollback.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Cyberbot**<br/>
+<sub>Assistente de cibersegurança · projeto em equipe</sub>
+
+Chatbot que responde dúvidas de segurança, gera e avalia senhas e simula ataques de phishing para treinamento.
+
+</td>
+<td width="50%" valign="top">
+
+**MundoPet**<br/>
+<sub>Marketplace pet · TCC da ETEC · <a href="https://github.com/yyhago/pet-marketplace-etec">código</a></sub>
+
+Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pagamento.
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════════ EDUCATION ═══════════════════════════════ -->
+<sub>Boa parte dos projetos de clientes é privada ou está sob NDA. Mais detalhes no <a href="https://portfoliodev-yhagofelipe.vercel.app/">portfólio</a>.</sub>
 
-## Formação & Certificações
-
-<details open>
-<summary><b>Ver trajetória acadêmica</b></summary>
 <br/>
 
-| Formação | Instituição |
-|---|---|
-| **Engenharia de Software** *(em andamento)* | Centro Universitário Estácio de Sá |
-| Técnico em **Desenvolvimento de Sistemas** | SENAI |
-| Técnico em **Desenvolvimento de Sistemas** | ETEC |
-| Bolsista — **Inglês técnico** | Programa Mackenzie CPM (Microsoft / SENAI) |
+## Formação
+
+| Curso | Instituição | Período |
+|---|---|---|
+| Bacharelado em Engenharia de Software | Centro Universitário Estácio de Sá | 2025 a 2028, em andamento |
+| Técnico em Desenvolvimento de Sistemas | SENAI Dr. Celso Charuri | 2025 |
+| Técnico em Desenvolvimento de Sistemas com Ensino Médio | ETEC Hortolândia | 2022 a 2024 |
+| Inglês, Programa Cidadão Pró-Mundo | Universidade Presbiteriana Mackenzie | 2025 a 2029, em andamento |
+
+<sub>A bolsa do Mackenzie veio de um programa da Microsoft com o SENAI Sumaré, que selecionou 20 alunos da região.</sub>
+
+<br/>
+
+## Certificados
+
+<details>
+<summary><b>Ver os 23 certificados</b></summary>
+<br/>
+
+**Microsoft Azure**
+- AZ-900, Implantação de Serviços em Nuvem · SENAI São Paulo · mar. 2025
+- AI-900, Implantação de Serviços de Inteligência Artificial em Nuvem · SENAI São Paulo · jun. 2025
+- SC-900, Fundamentos de Segurança em Nuvem · SENAI São Paulo · jun. 2025
+- Microsoft AI for Tech, Azure Databricks · DIO · abr. 2025
+
+**Desenvolvimento**
+- Full Stack Web com Node, JavaScript e TypeScript 2026 · Udemy · ago. 2026
+- Formação Node.js Fundamentals · DIO · dez. 2024
+- Formação JavaScript Developer · DIO · set. 2024
+- Formação PHP Experience · DIO · fev. 2024
+- Formação Lógica de Programação · DIO · fev. 2024
+- Oracle APEX Foundations · Oracle · mar. 2025
+
+**Python e Dados**
+- Python para Análise de Dados e Data Science, nível intermediário · Data Science Academy · jul. 2025
+- Python para Análise de Dados e Data Science, nível básico · Data Science Academy · jul. 2025
+- Python para Análise de Dados e Data Science, nível introdutório · Data Science Academy · jul. 2025
+- Programação em Python · SENAI São Paulo · jun. 2025
+- Fundamentos do Python · SENAI São Paulo · mar. 2025
+- Python Essentials 1 · Cisco · mar. 2025
+- Banco de Dados para Data Science · SENAI São Paulo · jun. 2025
+- Microsoft Power BI · SENAI São Paulo · jan. 2025
+
+**Infraestrutura**
+- Formação Linux Fundamentals · DIO · fev. 2024
+
+**UX e UI**
+- Design UX e UI · SENAI São Paulo · abr. 2025
+- Formação UX Designer · DIO · jul. 2024
+
+**IA e Inovação**
+- Inteligências Artificiais Generativas Aplicadas à Programação · SENAI São Paulo · jun. 2025
+- Soluções Integradas com IoT · SENAI São Paulo · jun. 2025
 
 </details>
 
-<details open>
-<summary><b>Ver certificações</b></summary>
 <br/>
 
-<div align="center">
-
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SC-900](https://img.shields.io/badge/SC--900-Security_Compliance_Identity-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
-
-</details>
-
-<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
-
-## Atividade no GitHub
+## Atividade
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yyhago&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=1f6feb&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://streak-stats.demolab.com?user=yyhago&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=1f6feb&currStreakLabel=00d4ff" />
-
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yyhago&bg_color=0d1117&color=00d4ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20m%C3%AAs" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yyhago&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=yyhago&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681&stroke=30363D&currStreakNum=E6EDF3&sideNums=E6EDF3&locale=pt_BR" alt="Sequência de contribuições" />
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyhago/yyhago/output/github-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/yyhago/yyhago/output/github-snake.svg" />
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/yyhago/yyhago/output/github-snake.svg" />
 </picture>
 
 </div>
 
-<!-- ═══════════════════════════════ CONTACT ═══════════════════════════════ -->
-
-## Vamos conversar?
-
-<div align="center">
-
-Tem um sistema que precisa conversar com outro e ninguém sabe por onde começar?<br/>
-Um processo manual que está segurando o crescimento do time?<br/>
-Ou só quer trocar ideia sobre arquitetura e boas práticas?
-
-**Me chama. É exatamente o tipo de conversa que eu gosto.**
-
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhagofelipe/)
-[![Email](https://img.shields.io/badge/-yhago.felipe.teles@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhago.felipe.teles@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Seguir_@yyhago-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yyhago)
+## Contato
 
-</div>
+Estou aberto a novas oportunidades e projetos, principalmente os que envolvem integração entre sistemas, automação e APIs. O jeito mais rápido de falar comigo é pelo LinkedIn ou por email.
 
-<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yhagofelipe-161b22?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhagofelipe/)
+[![Email](https://img.shields.io/badge/Email-yhago.felipe.teles@gmail.com-161b22?style=flat-square&logo=gmail&logoColor=white)](mailto:yhago.felipe.teles@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-yyhago__-161b22?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yyhago_/)
