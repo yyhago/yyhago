@@ -121,9 +121,9 @@ Marketplace que mostra pet shops próximos no mapa, com carrinho, cadastro e pag
 
 <table>
 <tr><th align="left" width="38%">Curso</th><th align="left">Instituição</th><th nowrap>Período</th><th nowrap>Situação</th></tr>
-<tr><td>Inglês, Programa Cidadão Pró-Mundo</td><td>Universidade Presbiteriana Mackenzie</td><td nowrap>2025</td><td nowrap>Em andamento</td></tr>
+<tr><td>Inglês, Programa Cidadão Pró-Mundo</td><td>Universidade Presbiteriana Mackenzie</td><td nowrap>2025 - 2030</td><td nowrap>Em andamento</td></tr>
 <tr><td>Bacharelado em Engenharia de Software</td><td>Centro Universitário Estácio de Sá</td><td nowrap>2025 - 2028</td><td nowrap>Em andamento</td></tr>
-<tr><td>Técnico em Desenvolvimento de Sistemas</td><td>SENAI Dr. Celso Charuri</td><td nowrap>2025</td><td nowrap>Concluído</td></tr>
+<tr><td>Técnico em Desenvolvimento de Sistemas</td><td>SENAI Dr. Celso Charuri</td><td nowrap>2025 - 2025</td><td nowrap>Concluído</td></tr>
 <tr><td>Técnico em Desenvolvimento de Sistemas com Ensino Médio</td><td>ETEC Hortolândia</td><td nowrap>2022 - 2024</td><td nowrap>Concluído</td></tr>
 </table>
 
