@@ -4,9 +4,9 @@
 
 **Engenheiro de Software · Full Stack**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+23+projetos+de+clientes;4%2B+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+antes+da+escala" alt="Resumo" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=APIs+para+%2B23+projetos+de+clientes;4%2B+ERPs+integrados+em+produ%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+antes+da+escala" alt="Resumo" />
 
-Hortolândia, SP · Português nativo · Inglês intermediário
+Hortolândia, SP · Português nativo · Inglês avançado
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yhagofelipe-161b22?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhagofelipe/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-acessar-161b22?style=flat-square&logo=vercel&logoColor=white)](https://portfoliodev-yhagofelipe.vercel.app/)
@@ -18,9 +18,13 @@ Hortolândia, SP · Português nativo · Inglês intermediário
 
 ## Sobre
 
-Comecei na tecnologia dentro do time de Cibersegurança do Grupo EMS, escrevendo automações em Python para tarefas que o pessoal fazia na mão. Elas reduziram em 40% o tempo dessas operações, e foi ali que aprendi a regra que sigo até hoje, antes de escalar um processo, automatize o que ainda é manual.
+Sou **Desenvolvedor Full Stack**, com a maior parte da minha experiência no **back-end**. Meu trabalho é pegar processos manuais e sistemas que não conversam entre si e transformar tudo isso em software que a empresa ou o cliente consiga utilizar e fazer crescer.
 
-Sou full stack, mas a maior parte da minha experiência está no back-end. Gosto de levantar requisitos direto com quem vai usar o sistema, manter a regra de negócio separada do framework, validar os dados na entrada e entregar tudo documentado e pronto para subir com Docker. Também cuido da minha própria infraestrutura, do servidor ao deploy.
+Comecei minha carreira no time de Cibersegurança de uma indústria farmacêutica, criando automações em Python que reduziram em **40%** o tempo gasto em operações manuais. Foi ali que surgiu uma regra que sigo até hoje: **antes de escalar um processo, automatize o que ainda é manual.**
+
+Desde então, desenvolvi o back-end de mais **20 projetos de clientes**, com APIs REST bem estruturadas, regras de negócio desenhadas de ponta a ponta, autenticação e controle de acesso por perfil. Já desenvolvi do zero um sistema que gerencia toda a operação de uma empresa, da compra no e-commerce até a emissão da nota fiscal no ERP, e conduzi migrações de ERP e de plataforma sem interromper a operação.
+
+Tenho experiência com integrações de ERPs como **OMIE, ERPFLEX, Datasul/TOTVS e Bling**, automações com **n8n**, filas com **Redis e BullMQ** e infraestrutura própria: servidores VPS Linux com **Docker, Nginx**, SSL, Cloudflare, armazenamento em **AWS S3** e pipelines de **CI/CD**.
 
 <br/>
 
@@ -36,21 +40,21 @@ Sou full stack, mas a maior parte da minha experiência está no back-end. Gosto
 
 ## Experiência
 
-**Freecook Brasil · Desenvolvedor Full Stack · mar. 2026 até hoje · Campinas, SP**
+**Freecook Brasil · Desenvolvedor de Software Full-Stack · mar. 2026 até hoje · Campinas, SP**
 
-Quando entrei, a loja e a gestão rodavam em WordPress, ligadas ao ERPFLEX. Desenhei a arquitetura do novo sistema do zero, com loja virtual, painel administrativo, portal comercial e site institucional, cobrindo todo o fluxo da compra até a emissão da nota fiscal integrada ao ERP. No meio disso, migramos do ERPFLEX para o OMIE sem parar as vendas da loja. Também configurei toda a infraestrutura, com servidores VPS, proxy reverso, SSL, domínios e Cloudflare. Hoje mantenho a plataforma que construí e automatizo os processos manuais da empresa.
+Responsável pela arquitetura e evolução técnica de todo o ecossistema de TI da empresa, com foco em performance, escalabilidade e automação de processos. Arquitetei e construí do zero a plataforma digital que sustenta a operação de ponta a ponta, do pedido no e-commerce até a baixa no estoque, loja virtual, painel administrativo, portal comercial e site institucional em um sistema único. Conduzi a saída do legado em WordPress para uma stack proprietária em Next.js, NestJS e TypeScript, definindo padrões de código, estrutura de API e estratégia de migração sem interromper a operação. Desenvolvimento back-end em PHP/MySQL para o e-commerce legado durante a transição, com módulos e integrações sob medida. Arquitetura de automações via n8n, orquestrando fluxos entre ERP, CRM e sistemas internos. Migração de integração de ERP legado (ERPFLEX) para ERP atual (OMIE), garantindo consistência de estoque, pedidos e clientes. Armazenamento de arquivos via Amazon S3 com presigned URLs e gestão de infraestrutura própria (VPS, Docker, Nginx, SSL) com backups automatizados. Integração com gateways de pagamento, APIs REST e sistemas de logística (FRENET).
 
-**CroSoften Tecnologia · Desenvolvedor Back-end · jan. 2026 a ago. 2026 · remoto**
+**CroSoften · Desenvolvedor de Software Back-End · jan. 2026 a ago. 2026 · remoto**
 
-Desenvolvi o back-end de 23 projetos de clientes, servindo aplicações em Angular e iOS, com regras de negócio, autenticação, controle de permissões e integrações externas. Fazia também a modelagem do banco de dados, e em alguns projetos construí as interfaces a partir dos protótipos do time de design no Figma. Entre os projetos estão Vitrine do Campo, Cardio Shop, SAFE/ERICA, Ships Manager, Minha Revenda e Cupom Clube.
+PJ, meio período com Freecook Brasil. Desenvolvimento e manutenção de APIs RESTful escaláveis em ambiente corporativo, atendendo mais de 20 projetos de clientes diferentes simultaneamente. Arquitetura e desenvolvimento de APIs com Node.js, NestJS e TypeScript, aplicando Clean Architecture para garantir manutenibilidade e escalabilidade em projetos de longo prazo. Implementação de regras de negócio complexas, autenticação/autorização e integração com múltiplas APIs externas. Documentação técnica completa via Swagger, viabilizando consumo simultâneo por aplicações mobile (iOS) e front-end (Angular). Atuação direta com clientes no levantamento de requisitos e definição de escopo técnico, traduzindo necessidades de negócio em arquitetura de sistema. Gerenciamento de múltiplas demandas concorrentes com foco em entregas contínuas e qualidade de código, dentro de metodologias ágeis (Scrum/Kanban). Projetos entregues em domínios variados, agronegócio (Vitrine do Campo), saúde (Cardio Shop), gestão financeira (SAFE/ERICA) e logística (Ships Manager), e entre outros.
 
-**DBS System Consultoria · Desenvolvedor Full Stack · set. 2025 a dez. 2025 · remoto**
+**DBS System Consultoria · Desenvolvedor de Software Full-Stack · set. 2025 a dez. 2025 · remoto**
 
-Contrato de 4 meses em uma consultoria que atende indústrias. Desenvolvi telas e funções de lógica de negócio integradas ao TOTVS Datasul, e acompanhei de perto o desenvolvimento em Progress, a linguagem usada no ERP para consultas e regras.
+Modernização de aplicações corporativas legadas para ambiente industrial, com foco em integração de sistemas e substituição de fluxos manuais por APIs automatizadas. Reconstrução de integrações com o ERP Datasul (TOTVS), substituindo trocas manuais de dados por consumo direto de API, reduzindo risco de inconsistência entre sistemas. Desenvolvimento de APIs RESTful em PHP e Node.js, com persistência em MySQL e PostgreSQL, para suportar as novas integrações. Reconstrução de interfaces legadas com Next.js e TypeScript, modernizando a experiência sem interromper a operação em produção. Levantamento técnico de requisitos junto à equipe de negócio, identificando gargalos na aplicação legada e propondo arquitetura de substituição. Entrega de projeto de escopo fechado em 4 meses, com autonomia total sobre decisões técnicas e cronograma.
 
-**Grupo EMS · Jovem Aprendiz em TI, Cibersegurança · jan. 2025 a set. 2025 · Hortolândia, SP**
+**Grupo EMS · Jovem Aprendiz em TI · jan. 2025 a set. 2025 · Hortolândia, SP**
 
-Meu primeiro emprego. Entrei no time de Cibersegurança, mas como meu objetivo era desenvolvimento, fui direcionado para automação de processos. Criei automações em Python que se conectavam a planilhas Excel, extraíam dados e geravam relatórios prontos para as equipes, reduzindo em 40% o tempo dessas tarefas.
+Primeira experiência corporativa, atuando em uma equipe de cibersegurança com foco em automação de processos internos e proteção de dados. Desenvolvi aplicações internas utilizando Python (Streamlit, FastAPI, Flask) para atender a necessidades específicas do departamento de segurança. Criei automações que reduziram em 40% o tempo dedicado a operações manuais, meu primeiro contato prático com a filosofia de "automatizar antes de escalar", a qual sigo adotando até hoje. Estruturei pipelines de CI/CD básicos para a execução e o monitoramento contínuo dessas automações. Integrei diversos bancos de dados (Supabase, Firebase, PostgreSQL, MySQL) para consolidar fluxos de dados entre sistemas. Prestei suporte a práticas de segurança da informação, com ênfase no tratamento adequado de dados sensíveis.
 
 <br/>
 
